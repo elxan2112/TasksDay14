@@ -1,0 +1,13 @@
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.exe
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.deps.json
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.runtimeconfig.json
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.runtimeconfig.dev.json
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.dll
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.pdb
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.csprojAssemblyReference.cache
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfoInputs.cache
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfo.cs
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.csproj.CoreCompileInputs.cache
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.dll
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.pdb
+D:\VS Community 2019\Lesson 14\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.genruntimeconfig.cache
