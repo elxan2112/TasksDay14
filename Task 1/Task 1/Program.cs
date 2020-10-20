@@ -39,6 +39,8 @@ namespace Task_1
                 }
                 else
                     break;
+                Console.WriteLine("Для продолжения нажмите любую клавишу!");
+                            Console.ReadKey();
             }
             static void DisplayMessage(string message)
             {
